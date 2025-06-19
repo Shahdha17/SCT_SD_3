@@ -46,7 +46,7 @@ Created a **Java-based Sudoku Solver GUI** using **Swing**. This application all
 A short video demonstrating the working of the game is available.
 
 🎥 *Watch here:* 
-You can also check out the game and full details in my *[LinkedIn post]()*.
+You can also check out the game and full details in my *[LinkedIn post](https://www.linkedin.com/posts/shahdha-akhtharin-6693a731a_skillcrafttechnology-softwaredevelopment-activity-7341512405656465408-iN5_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDcIPEB6iOd73JGXY2Vl0fUIJTMkTa5Nw0)*.
 
 
 ### 🔗 Connect with Me  
